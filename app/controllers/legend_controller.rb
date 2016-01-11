@@ -1,0 +1,2 @@
+class LegendController < ApplicationController
+end
